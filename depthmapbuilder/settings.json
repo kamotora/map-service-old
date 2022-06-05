@@ -1,0 +1,10 @@
+{
+	"db": 
+	{
+		"host": "localhost",
+		"user": "root",
+		"password": "password",
+		"name": "depthmap"
+	},
+	"imageroot" : "insert here path to images"
+}
